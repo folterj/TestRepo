@@ -467,3 +467,4 @@ def get_best_size(sizes: list, target_size: tuple) -> tuple:
             best_index = index
             best_scale = scale
     return sizes[best_index], best_index
+
